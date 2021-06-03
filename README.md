@@ -1,1 +1,1 @@
-# transactional-email
+# amazon-transactional-email
